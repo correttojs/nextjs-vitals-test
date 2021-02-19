@@ -15,9 +15,7 @@ export default function Home() {
         <nav>
           <ul>
             <li>
-              <Link prefetch={false} href="/sports">
-                Sports
-              </Link>
+              <Link href="/sports">Sports</Link>
             </li>
           </ul>
         </nav>
